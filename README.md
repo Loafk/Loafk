@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Loafk
+- 👀 I’m interested in learning the most i can!
+- 🌱 I’m currently learning the basics of python!
+- 📫 How to reach me : loic007m@gmail.com
